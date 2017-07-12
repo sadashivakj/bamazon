@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Home Work assignment for using MySQL and node.js ",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadashivakj/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Sadashiva Kallur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadashivakj/bamazon/issues"
+  },
+  "homepage": "https://github.com/sadashivakj/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
+}
